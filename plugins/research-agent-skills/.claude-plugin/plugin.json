@@ -1,0 +1,6 @@
+{
+  "name": "research-agent-skills",
+  "description": "Research workflow skills: blind multi-model consensus review (llm-ensemble), lab research memos, and simulation-study memos.",
+  "version": "1.0.0",
+  "author": { "name": "Tianyu Du" }
+}

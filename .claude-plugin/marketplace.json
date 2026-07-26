@@ -1,0 +1,12 @@
+{
+  "name": "research-agent-skills",
+  "description": "Claude Code skills that speed up research workflows: blind multi-model consensus review, lab research memos, and simulation-study memos.",
+  "owner": { "name": "Tianyu Du" },
+  "plugins": [
+    {
+      "name": "research-agent-skills",
+      "source": "./plugins/research-agent-skills",
+      "description": "Research workflow skills for Claude Code: llm-ensemble (blind multi-model consensus review), lab-research-memo (Jupyter research memos), and simulation-memo (pre-registered simulation studies)."
+    }
+  ]
+}
